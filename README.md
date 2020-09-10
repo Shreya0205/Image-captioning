@@ -36,7 +36,7 @@ optional arguments:
 ## 2. Training Results
 For the image, Results are
 
-[Image](./assets/image.png)
+![Image](./assets/image.png)
 Model is trained on less number of images because of limited RAM. Results will be much better when trained on entire training data.
 
 | Model & Config | Argmax |
